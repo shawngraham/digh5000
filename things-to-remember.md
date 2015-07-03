@@ -8,3 +8,6 @@
 + [Steinberg Openness, accessibility, and the political geography of academic communication](http://www.sciencedirect.com/science/article/pii/S0962629812000698f)
 + 
 _memo to self_ don't forget to check what ifttt has been filtering to your evernote.
+
+
++ http://jason-warren.com/blog/dr-strangetweet-or-how-i-learned-to-stop-worrying-and-love-social-media-as-an-academic-resource/
