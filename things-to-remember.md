@@ -1,4 +1,4 @@
-+ [Sayers' tweet](https://twitter.com/jenterysayers/status/617029276051726336]
++ [Sayers' tweet](https://twitter.com/jenterysayers/status/617029276051726336)
 + [Sherrat Keynote](http://discontents.com.au/unremembering-the-forgotten)
   + [Faces API](http://faceapi.herokuapp.com/)
 + [Chun Future is a memory](http://www.jstor.org/stable/10.1086/595632)
