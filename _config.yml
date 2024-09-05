@@ -9,7 +9,7 @@ description: >
   The course website for the graduate seminar in digital humanities. Our focus is on process over product because, after all, we learn dh by doing, by failing, and figuring out what comes next.
 
 # Build settings
-baseurl: "/digh500-" # the subpath of your site, e.g. /blog
+baseurl: "/digh5000" # the subpath of your site, e.g. /blog
 show_excerpts: true
 
 # If you clone the Minima repo and build locally, use this setting.
