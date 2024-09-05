@@ -10,11 +10,14 @@ What do we mean when we say 'dh', and what does DH mean when we come from so man
 
 ## October 1st
 
-Introduction
+Introduction - my own DH journey and what it shows about the continuing evolution of the field
 
 ## October 15th
 
-Your Research Environment and Why That Matters in DH
+Building a Digital Research Environment and Why That Matters in DH / issues of replicability, reproducibility / tools are never neutral
+
+> Generative AI is digital humanities in reverse. What we describe about the information in an archive becomes a prescription -- what was meant to be a set of notes becomes a recipe. This reversal makes digital humanities a key lens for understanding the complex cultural questions surrounding AI, but to do so, we have to get into the habit of thinking in reverse. We have to consider the consequences of the ways we organize information deliberately, & become literate about what AI systems will do to the data we gather about culture. Assume anything we record will eventually be reversed and mass-produced. How does that change the way you label, categorize, store information? What do you do differently? The opposite of digital humanities -- issues around the preservation of scarce originals are displaced by the mass production of simulated derivatives.
+> - Eryk Salvaggio [https://assemblag.es/@CyberneticForests/113075082411831826](https://assemblag.es/@CyberneticForests/113075082411831826)
 
 ## October 29th
 
