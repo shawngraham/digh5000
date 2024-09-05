@@ -9,7 +9,7 @@ DIGH5000 is the introductory core course for the MA Specialization in Digital Hu
 
 The course catalogue will tell you that this course is about an “Introduction to the theoretical and practical aspects of the Digital Humanities, including the historical and ongoing debates over its boundaries, methodologies, objectives and values.” I suppose that’s more or less correct. Doesn’t actually tell us much about what ‘dh’ is about.
 
-Well, still no good answer, which is great, for it gives us much territory to explore. I’m loathe to [define DH](https://whatisdigitalhumanities.com/). But I will say this much:  it’s not just about tool use or shiny new digital toys applied to humanities-type materials. It is also about exploring what our tools do to us. I would suggest that’s the more important aspect. Archaeology teaches us that our things help make us us as much as we make our things. What kind of a world are we building? There is no such thing as ‘data’. Perhaps there are only [‘capta’](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html).
+I’m loathe to [define DH](https://whatisdigitalhumanities.com/). But I will say this much:  it’s not just about tool use or shiny new digital toys applied to humanities-type materials. It is also about exploring what our tools do to us. I would suggest that’s the more important aspect. Archaeology teaches us that our things help make us us as much as we make our things. What kind of a world are we building? There is no such thing as ‘data’. Perhaps there are only [‘capta’](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html).
 
 We will read, and we will make. We will build!
 

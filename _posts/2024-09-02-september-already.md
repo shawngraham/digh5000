@@ -11,6 +11,6 @@ Ah well.
 
 For reference, I'll slap any supporting visuals for the course under the 'slides' folder with the naming convention 'monthDay', so:
 
-[Sept 4](../../../slides/oct1): thus `https://shawngraham.github.io/digh5000/slides/oct1`
+[Oct 1](../../../slides/oct1): thus `https://shawngraham.github.io/digh5000/slides/oct1`
 
 ...and so on.

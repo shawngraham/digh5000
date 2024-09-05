@@ -52,11 +52,12 @@ What has changed? What _new_ things have you spotted? What ideas/observations ha
 An experiment poses a _question_, it describes and then uses a _method_, and it keeps track of what you think the likely outcome will be _before_ you do the experiment, and what you observe _afterwards_. 
 
 You will submit to me:
-	+ a lab notebook with at least 10 entries; this notebook is a gift to **future you** when you try to replicate or revisit what you've learned
-		- this will be a private repository on Github to which you'll add **shawngraham** as a collaborator.
-		- each entry will be a markdown file with a name along these lines 'yyyy-mm-dd-entry#.md'
-		- bullet points etc are fine; these are not essays. They are your _notes_. They can contain images, links, screenshots, to do lists, things that are working, workflows, reference literature etc
-	+ an [unessay](https://people.uleth.ca/~daniel.odonnell/teaching/the-unessay) discussing the experiment, in a format appropriate to the work (thus, not necessarily a written essay)
+
++ a lab notebook with at least 10 entries; this notebook is a gift to **future you** when you try to replicate or revisit what you've learned
+	- this will be a private repository on Github to which you'll add **shawngraham** as a collaborator.
+	- each entry will be a markdown file with a name along these lines 'yyyy-mm-dd-entry#.md'
+	- bullet points etc are fine; these are not essays. They are your _notes_. They can contain images, links, screenshots, to do lists, things that are working, workflows, reference literature etc
++ an [unessay](https://people.uleth.ca/~daniel.odonnell/teaching/the-unessay) discussing the experiment, in a format appropriate to the work (thus, not necessarily a written essay)
 
 ## Generative AI policy
 
