@@ -1,4 +1,4 @@
-title: HIST5706f Digital History, Fall 2024 @ Carleton U
+title: DIGH5000, Flavours of DH, Fall/Winter 2024/5 @ Carleton U
 author:
   name: Shawn Graham
   email: shawn.graham@carleton.ca
@@ -6,10 +6,10 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  The course website for the public history graduate seminar in digital history. Our focus is on process over product because, after all, we learn digital history by doing, by failing, and figuring out what comes next.
+  The course website for the graduate seminar in digital humanities. Our focus is on process over product because, after all, we learn dh by doing, by failing, and figuring out what comes next.
 
 # Build settings
-baseurl: "/5706f-f24" # the subpath of your site, e.g. /blog
+baseurl: "/digh500-" # the subpath of your site, e.g. /blog
 show_excerpts: true
 
 # If you clone the Minima repo and build locally, use this setting.
@@ -45,7 +45,7 @@ minima:
   # solarized-light    Light variant of solarized color scheme.
   # solarized-dark     Dark variant of solarized color scheme.
   # solarized          Adaptive skin for solarized color scheme skins.
-  skin: dark
+  skin: classic
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
