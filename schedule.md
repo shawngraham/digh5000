@@ -14,11 +14,7 @@ I'm going to try to run this class in a hybrid modality. I will send around a zo
 
 ## October 1st
 
-Introduction - my own DH journey and what it shows about the continuing evolution of the field. Why are you here? What are you after? What do you want from DH? My goals for this class, your goals for this class, assessment, and building just to see if it works. Habits of mind that lead to DH success. Code, Coding, and Sitting with 'I don't know - yet'. StudioDH and turning our work inside-out. Setting up Topical Deep Dives and Adding to the Resource Page. 
-
-## October 15th
-
-Building a Digital Research Environment and Why That Matters in DH / issues of replicability, reproducibility / tools are never neutral
+Introduction - my own DH journey and what it shows about the continuing evolution of the field. Why are you here? What are you after? What do you want from DH? My goals for this class, your goals for this class, assessment, and building just to see if it works. Habits of mind that lead to DH success. Code, Coding, and Sitting with 'I don't know - yet'. StudioDH and turning our work inside-out. Setting up Topical Deep Dives and Adding to the Resource Page. DIGH5800 & Studio DH.
 
 [Obsidian](https://obsidian.md) and why you might want to use it
 
@@ -30,7 +26,14 @@ Building a Digital Research Environment and Why That Matters in DH / issues of r
 
 [Google Colab](https://colab.research.google.com) and a static site generator called [Pelican](https://github.com/shawngraham/pelican-via-google-colab)
 
+
+## October 15th
+
+DH and issues of replicability, reproducibility / tools are never neutral
+
 Catherine D’Ignazio and Lauren F. Klein, "What Gets Counted Counts" and "The Numbers Don’t Speak for Themselves," Data Feminism (2020), https://data-feminism.mitpress.mit.edu/.
+
+Marwick, Ben, et al. Open Science in Archaeology. SAA Archaeological Record, Sept 2017 [https://faculty.washington.edu/bmarwick/PDFs/Marwick_et_al_2017_SAA_Record_Sept.pdf](https://faculty.washington.edu/bmarwick/PDFs/Marwick_et_al_2017_SAA_Record_Sept.pdf).
 
 Benjamin M. Schmidt "Do Digital Humanists Need to Understand Algorithms?" [https://dhdebates.gc.cuny.edu/read/untitled/section/557c453b-4abb-48ce-8c38-a77e24d3f0bd#ch48](https://dhdebates.gc.cuny.edu/read/untitled/section/557c453b-4abb-48ce-8c38-a77e24d3f0bd#ch48). Accessed 24 Sept. 2024.. Accessed 24 Sept. 2024.
 
