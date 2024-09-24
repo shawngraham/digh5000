@@ -52,7 +52,6 @@ Gavin, Michael. ‘Agent-Based Modeling and Historical Simulation’. Digital Hu
 Kee, Kevin et al, “Towards a Theory of Good History Through Gaming”, Canadian Historical Review 90:2 (June 2009). http://dx.doi.org/10.3138/chr.90.2.303
 
 
-
 Mol, A. et al. 2017 The Interactive Past - Archaeology, Heritage, and Video Games Sidestone Press https://www.sidestone.com/books/the-interactive-past
 
 Salvaggio, Eryk. 2024. Challenging the Myths of Generative AI [Tech Policy Press](https://www.techpolicy.press/challenging-the-myths-of-generative-ai/)
@@ -87,6 +86,8 @@ Long, Karawynn. 2023. “Language is a Poor Heuristic for Intelligence”. Nine 
 Parish, Allison. 2021 Language models can only write poetry. [link](https://posts.decontextualize.com/language-models-poetry/)
 
 Underwood, Ted. “Mapping the Latent Spaces of Culture” Startwords 3: Parrots. August 1, 2022. original, archived.
+
+Willison, Simon. [Peruse his whole damned blog](https://simonwillison.net/)
         
 ## linked open data, knowledge graphs
 
