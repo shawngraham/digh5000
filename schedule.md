@@ -50,37 +50,52 @@ Kim Martin. ‘Clio, Rewired: Propositions for the Future of Digital History Ped
 
 Shawn Graham, [Failing Gloriously](https://thedigitalpress.org/wp-content/uploads/2019/12/failing_gloriously_final.pdf) Fargo ND: Digital Press at the University of North Dakota. 'How I lost the Crowd'; 'Research Witchcraft'; 'What is this thing?'; 'Some Assembly Required'.
 
+## Coding for Humanities Workshop
+
+This [workshop](https://carleton.ca/gradpd/cu-events/coding-for-the-humanities-f2024/) is being offered through the library. I've asked you to participate in it as part of DIGH5800; a few of the sessions coincide with our DIGH5000 schedule, but that's ok. I was going to do some coding with you anyway, but this will be a richer experience, so we'll rejig accordingly.
+
 ## November 12
 
-[Tracey Lauriault](https://carleton.ca/sjc/profile/lauriault-tracey/) Dr. Lauriault is a critical data studies scholar who works on open data, big data, open smart cities, open government, data sovereignty, data preservation and data governance. Her ongoing research includes disaggregated equity data, digital twins, intersectional approaches to data governance, data invisibilities and the history of the census. As a publicly engaged scholar, she mobilizes her research into data and technology policy in all sectors. As a data and technological citizen, she examines large and small complex systems with the hope of making them more just, inclusive, equitable and environmentally sustainable.
-
-DH, Data & Society
+Please attend the Coding for the Humanities Workshop today.
 
 ## November 26th
 
-Marc Saurette 
-
-Games & interactive media
+Please attend the Coding for the Humanities Workshop today.
 
 ## January 7th
 
-Laura Banducci 
+Guest: Tracey Lauriault on DH, Data & Society
 
-DH and Archaeology
+Marilyn - Data Feminism
 
 ## January 21st
 
-Amanda Montague 
+Guest: Amanda Montague on DH in the Community
 
-DH in the Community
+Kai - Public Humanities
 
 ## February 4th
 
-Scott Coleman & Kavita Mistry 
-
-DH from emerging colleagues' perspectives
+Kegan - Text Analysis & Allied Approaches
 
 ## February 25th
+
+Guest: Laura Banducci on DH and Field Archaeology
+
+Jeremy - Minimal Computing
+
 ## March 11th
+
+Guest: Scott Coleman & Kavita Mistry on DH as a PhD student
+
+Theo - Computational Creativity, Identity, & the Digital Self
+
 ## March 25th
+
+Guest: Marc Saurette on Games & History
+
+Sean - Accessibility & Design in Interactive Experiences
+
 ## April 8th
+
+Ali - Large Language Models & DH
