@@ -143,7 +143,3 @@ Williams, G. 2012 ‘Disability, Universal Design, and the Digital Humanities’
 Williams, G. ‘Access’ [Digital Pedagogy in the Humanities](https://digitalpedagogy.mla.hcommons.org/keywords/access/) #accessibility
 
 Willison, Simon. [Peruse his whole damned blog](https://simonwillison.net/) #ai
-
-
-
-## webmapping & GIS
